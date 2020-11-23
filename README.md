@@ -1,4 +1,4 @@
-# Most-popular-CCS-Animation-Part-2
+# Most-popular-CSS-Animation-Part-2
 These two repositories create for easy to use most popular CSS animation.
 
 This repositories include next animations:
